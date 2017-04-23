@@ -1,0 +1,18 @@
+As discussed on the phone, this is the final project you can do to meet the requirements for completing the class. You will need to submit this project to me and Cameron by the end of the day, Monday, April 17th. You can message us in Slack with an update and any questions. 
+
+"Based on Projects Via: https://github.com/karan/Projects
+
+Budget Tracker 
+Write an application that keeps track of a household's budget.
+The user can add expenses, income, and recurring costs to find out how much they are saving or losing over a period of time.
+
+Requirements:
+- Must use Mongo for each user's budget
+- Must use React and Express to create:
+  - HomePage
+  - Budget Management Page
+- Must integrate a JS chart creation library or framework
+
+Competitors: See Mint.com"
+
+Thank you, 
